@@ -42,3 +42,29 @@ p{
     text-align: center;
     padding-left: 20px;
 }
+
+.contato__subtítulo{
+    display: inline;
+}
+ .contato__info{
+    margin: 16px 0 24px
+ }
+
+.contato__info-título,
+.contato__info-descrição {
+  display:inline;
+}
+
+.contato__info-descrição {
+  margin-left: 10px;
+}
+
+.contato__secao{ 
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px
+}
+
+.contato__secao--telefone{
+    margin-left: 32px;
+}
